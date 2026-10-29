@@ -19,7 +19,7 @@ El programa tiene como objetivo principal calcular el **factorial** de un númer
 ---
 
 ##  Tecnologías y Herramientas Utilizadas
-* **JavaScript
+* **JavaScript**
 * **Node.js** (Entorno de ejecución en servidor/terminal)
 * **Git y GitHub** (Control de versiones y repositorio remoto)
 * **Visual Studio Code** (Editor de código fuente)
